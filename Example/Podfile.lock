@@ -1,0 +1,16 @@
+PODS:
+  - MLoader (0.1.0)
+
+DEPENDENCIES:
+  - MLoader (from `../`)
+
+EXTERNAL SOURCES:
+  MLoader:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MLoader: 62bbcba48ddfced64d410904a46502f6de9246be
+
+PODFILE CHECKSUM: 959ec9549ecc3570c3fe915e490df901275fec97
+
+COCOAPODS: 1.4.0

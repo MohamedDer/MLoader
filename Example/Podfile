@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MLoader_Tests' do
+  pod 'MLoader', :path => '../'
+  
+  
+end
